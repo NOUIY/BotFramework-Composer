@@ -19,7 +19,7 @@
     "selfReferences": false
   },
   "dependencies": {
-    "@microsoft/bf-dialog": "4.14.0-dev.20210415.161c029",
+    "@microsoft/bf-dialog": "4.14.0",
     "debug": "^4.3.1",
     "tslib": "2.4.0",
     "yeoman-environment": "^2.10.3"
